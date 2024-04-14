@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1713103870 source:c:\users\touraj ostovari\desktop\fx\needmargin\main.c
+	<stdio.h>
+	<stdlib.h>
+
